@@ -1,0 +1,13 @@
+# Credenciales
+.env
+
+# Datos detallados (no subir a publico)
+entregas_industriales_ene_abr_2026.csv
+
+# Python
+__pycache__/
+*.pyc
+
+# Sistema
+Thumbs.db
+.DS_Store
